@@ -1,0 +1,23 @@
+<svg height="760" width="974" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  <rect fill="#FFEBA2" height="57.14286" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-2" stroke="#2D2D2D" width="174.28572" x="176.00002" y="79.99999"/>
+  <rect fill="#FFEBA2" height="48.57143" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-3" stroke="#2D2D2D" width="128.57143" x="713.14289" y="120"/>
+  <rect fill="#FFEBA2" height="28.57143" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-4" stroke="#2D2D2D" width="131.42857" x="181.71431" y="148.57142"/>
+  <rect fill="#FFEBA2" height="48.57143" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-5" stroke="#2D2D2D" width="97.14286" x="713.14289" y="182.85714"/>
+  <g id="fda8fc020ff44d8d9094b53ce7d9d938-ao-6">
+   <rect fill="#FFEBA2" height="48.57143" stroke="#2D2D2D" width="180" x="90.28573" y="194.28571"/>
+   <rect fill="#FFEBA2" height="25.71429" stroke="#2D2D2D" width="97.14286" x="118.85716" y="242.85714"/>
+   <rect fill="#FFEBA2" height="22.85714" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="97.14286" x="118.85716" y="268.57143"/>
+   <rect fill="#FFEBA2" height="22.85714" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="114.28572" x="118.85716" y="291.42857"/>
+  </g>
+  <rect fill="#FFEBA2" height="45.71429" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-7" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="102.85714" x="713.14289" y="245.71428"/>
+  <rect fill="#FFEBA2" height="94.28572" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="120" x="710.28574" y="568.57143"/>
+  <rect fill="#FFEBA2" height="77.14286" id="fda8fc020ff44d8d9094b53ce7d9d938-ao-9" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="174.28572" x="673.14289" y="671.42858"/>
+ </g>
+</svg>
